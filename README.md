@@ -64,15 +64,3 @@
 <br>
 
 <p align='center'><b>© 2022 All rights reserved. | Security +</b></p>
-
-<style>
-.css-18r9pyf h1 {
-    text-align: center !important;
-}
-.css-1yb2nwh{
-position: fixed !important;
-}
-body {
-background: #252525 !important;
-}
-</style>
